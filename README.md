@@ -10,4 +10,5 @@
 * Sign up and log in to your 'Alchemy` dashboard.
 * Paste your account address and click `send ETH`. Once the transaction is successful, you will 0.5 ETH in your account wallet.
 * Now, open your Remix IDE and navigate to your contract's `Deploy & Run Transactions` section and change the environment to `Injected Provider- Metamask` and connect your metamask account.
-* Click on `Deploy` and confirm the transaction. 
+* Click on `Deploy` and confirm the transaction.
+* Once everything's set up, test your smart contract through your Remix user interface.
